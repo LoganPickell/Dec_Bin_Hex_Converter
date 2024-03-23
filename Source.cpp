@@ -30,8 +30,6 @@ std::string hexToBin(std::string hexNumber);
 int main() {
 	double decNumber{ 0 };
 	int bonusNum{ 0 };
-	int fromBase{ 0 };
-	int toBase{ 0 };
 	std::string binNumber{ "00000000"};
 	std::string hexNumber{"00"};
 
